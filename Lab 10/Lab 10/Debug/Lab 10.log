@@ -1,0 +1,5 @@
+﻿  lab10.c
+d:\ipc144\lab 10\lab 10\lab10.c(67): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\ipc144\lab 10\lab 10\lab10.c(67): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+  LINK : D:\IPC144\Lab 10\Debug\Lab 10.exe not found or not built by the last incremental link; performing full link
+  Lab 10.vcxproj -> D:\IPC144\Lab 10\Debug\Lab 10.exe
