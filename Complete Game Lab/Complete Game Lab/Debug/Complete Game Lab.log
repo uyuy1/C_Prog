@@ -1,0 +1,6 @@
+﻿  CGL.c
+c:\users\koko\documents\old documents\game labs\complete game lab\complete game lab\cgl.c(296): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\koko\documents\old documents\game labs\complete game lab\complete game lab\cgl.c(300): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\koko\documents\old documents\game labs\complete game lab\complete game lab\cgl.c(316): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  Complete Game Lab.vcxproj -> C:\Users\Koko\Documents\Old Documents\Game Labs\Complete Game Lab\Debug\Complete Game Lab.exe
+  Complete Game Lab.vcxproj -> C:\Users\Koko\Documents\Old Documents\Game Labs\Complete Game Lab\Debug\Complete Game Lab.pdb (Partial PDB)
